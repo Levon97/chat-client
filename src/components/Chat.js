@@ -1,5 +1,7 @@
+import Background from './Background';
+
 function Chat() {
-  return (<h1>Chat</h1>);
+  return (<Background><h1>Chat</h1></Background>);
 }
 
 export default Chat;

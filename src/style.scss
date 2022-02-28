@@ -1,1 +1,14 @@
 @import "~bootstrap/scss/bootstrap.scss"; 
+
+
+.container-fluid {
+  min-height: 100vh;
+}
+
+
+.globalBackground {
+  min-height: 100vh;
+  background-size:cover; 
+  background-position: center;
+
+}
