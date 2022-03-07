@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import Background from './Background';
+import Background from '../Background';
 function Join() {
   const [name, setName] = useState('');
   const [room, setRoom] = useState('');
